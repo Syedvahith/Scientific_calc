@@ -1,2 +1,4 @@
-/home/syed/Pictures/Screenshots/Screenshot from 2024-01-31 23-29-56.png
-/home/syed/Pictures/Screenshots/Screenshot from 2024-01-31 23-36-07.png
+#Scientific mode#
+[README.md](https://github.com/Syedvahith/Scientific_calc/files/14115580/README.md)
+#Ordanary mode#
+[README.md](https://github.com/Syedvahith/Scientific_calc/files/14115582/README.md)
