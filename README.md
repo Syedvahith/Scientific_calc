@@ -3,3 +3,6 @@
 
 **#Scientific Mode#**
 ![Screenshot from 2024-01-31 23-29-56](https://github.com/Syedvahith/Scientific_calc/assets/113373751/410bbd81-bbcf-4a65-ad69-862c7c58e494)
+
+
+For more:https://github.com/Syedvahith
